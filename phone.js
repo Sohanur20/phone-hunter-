@@ -115,6 +115,8 @@ const showPhoneDetails = (phone) => {
     showContainer.innerHTML = `
     <img  src=${phone.image} alt="">
     <p class="py-4 text-center">${phone.brand}</p>
+
+    }</p>
     
     `
 
